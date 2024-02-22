@@ -1,0 +1,5 @@
+selected-ips.*
+*.ini
+*.csv
+*.cnf
+test.py
